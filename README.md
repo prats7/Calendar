@@ -1,6 +1,6 @@
 # Calendar
 
-Deployed on Heroku : https://college-m-portal.herokuapp.com
+Deployed on Heroku : calendar-69vgdcov6-pratyushvishal.vercel.app
 
 ### DESCRIPTION
 
